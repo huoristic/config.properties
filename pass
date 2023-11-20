@@ -1,4 +1,3 @@
-# config.properties
-user1=username1:password1
-user2=username2:password2
-user3=username3:password3
+user1:password1
+user2:password2
+user3:password3
